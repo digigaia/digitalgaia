@@ -27,8 +27,10 @@ They should be encouraged to be lead in at least 1 project, but this is not requ
 
 *2 years of production / project maturity*
 
-Money should start coming in this time, if appreciation of crypto assets didn't extend that period
+Money should start coming in at this point, and hopefully the collective will be self-sustaining at the end of this phase.
 
-**Business model:** software licensing (GPL), consulting (e.g.: [SourceHut consultancy][srht]), possibly trading and/or management of crypto-assets or other investments in spinoffs
+**Business model**
+
+A working business model should be agreed upon by the members of the collective, it could be any of software licensing (GPL), consulting (e.g.: [SourceHut consultancy][srht]), trading and/or management of crypto-assets or other investments in spinoffs, subventions, donations, etc.
 
 [srht]: https://sourcehut.org/consultancy/

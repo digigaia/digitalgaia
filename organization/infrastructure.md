@@ -18,7 +18,9 @@ investigate [Radicle](https://radicle.xyz/blog/towards-decentralized-code-collab
 
 ## Security
 
-Security needs to be enforced all the time, we want to have proper access to resources. Nothing "shared all" or public by default. Take care of access with (potentially old) SSH keys on servers.
+Security needs to be enforced all the time, we want to have proper access to resources.
+
+Best practices should be defined and followed, no exceptions because it's more "convenient".
 
 
 ## Infrastructure maintenance

@@ -6,7 +6,23 @@ a near wiki-like experience can be achieved with sphinx doc being built and push
 
 there should be official documentation for projects, but also wiki-style unstructured general documentation, links to to interesting articles, thoughts for possible different designs or new features, ideas for governance, etc.
 
-```{note}
+we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).
+documentation that is not needed anymore to support the current functioning of the collective should be archived at the end of the year.
+
+[The case for continuous documentation](<https://archive.is/RDH4z>)[HN](https://news.ycombinator.com/item?id=27411574)
+[A continuous documentation platform for dev teams (llm-powered hype or good workflows?)](https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1)
+
+
+## Types of documentation
+
+### Meta-documentation / documentation about the collective
+
+there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
+
+another section could be about motivation / philosophy / beliefs. This represents the “why we do things” (spirit)
+
+### Knowledge-tree
+
 links stored in notes.org or programming.org should be stored as part of a knowledge-base for digitalgaia (sort of wiki, but not of documentation, but links on interesting piece of knowledge). kind of what the www was like at the beginning, a inter-linked hypertext system
 
 name: knowledge-tree(?)
@@ -18,19 +34,10 @@ the reason we want to have this is so that people don't have to read the news (t
 
 one main section (or another KB) could be devoted to tools being used and articles about them. This represents the “how we do things” (craft)
 
-another section could be about motivation / philosophy / beliefs. This represents the “why we do things” (spirit)
 
+```{important}
 the first phase in the DG process (1st year) is here to build our knowledge and to refine our craft
 ```
-
-```{note}
-Investigate [GNU Hyperbole](https://www.gnu.org/software/hyperbole/)
-```
-
-there is also a handbook for the collective, containing amongst other the digitalgaia manifesto
-
-we could have, say, 1 week / year where we stop all activity and only review, update and fix documentation of all products / internal infrastructure (kind of a spring cleaning week).
-documentation that is not needed anymore to support the current functioning of the collective should be archived at the end of the year.
 
 
 ## Possible tools for documentation
@@ -48,6 +55,7 @@ investigate following tools:
 
 converting any doc to a Dash docset: [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/) [[HN](https://news.ycombinator.com/item?id=32900164)]
 
+[Markwhen, to input and display stuff with dates](https://markwhen.com/) [[HN]](https://news.ycombinator.com/item?id=42289690)
 
 ## How to write good documentation
 
