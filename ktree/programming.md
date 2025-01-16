@@ -37,6 +37,8 @@ efficient
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
+[jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful, with a [tutorial by Steve Klabnik](https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html)
+
 ### Git workflows
 
 [git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
@@ -44,7 +46,6 @@ efficient
 → [git undo](<https://blog.waleedkhan.name/git-undo/>): feature from the above ([HN thread](<https://news.ycombinator.com/item?id=27579701>))
 
 apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https://gitup.co/>)
-
 
 
 ## Diff tools

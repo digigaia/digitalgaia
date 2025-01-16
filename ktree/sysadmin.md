@@ -14,6 +14,7 @@ directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla
 
 [lnav: An advanced log file viewer for the small-scale](https://lnav.org/)
 
+[Opinionated Debian Installer](https://github.com/r0b0/debian-installer) - alternative debian installer for laptops and desktop PCs
 
 ## HTTP / Nginx
 
