@@ -43,4 +43,6 @@ python run_livereload.py
   normal: Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo
   heading: CooperBT, Averia
 
+  maybe use <https://modernfontstacks.com/>
+
 - remove unused fonts from `custom.css` and `_static/fonts` folder

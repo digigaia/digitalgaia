@@ -42,7 +42,7 @@ VSM, Stafford Beer, cybernetics in general
 check Dan's article about [independent parties vs. general partnership](https://hive.blog/fractally/@dan/implications-of-eden-s-declaration-of-independence)
 
 Some "tech coops", maybe good source of inspiration
-https://tech-coops.xyz/
+<https://tech-coops.xyz/>
 
 ## communication
 
