@@ -50,6 +50,8 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 
 ## Diff tools
 
+[Mergiraf](https://mergiraf.org/): a syntax-aware merge driver for Git [[HN](https://news.ycombinator.com/item?id=42093756)]
+
 smart diff tool (can be used with git): [Difftastic](https://difftastic.wilfred.me.uk/)
 
 A syntax-highlighting pager for git, diff, grep, and blame output [Delta](https://github.com/dandavison/delta)

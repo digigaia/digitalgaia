@@ -34,6 +34,13 @@ VSM, Stafford Beer, cybernetics in general
 [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
 
 
+# Similar orgs
+
+[Alchemists](https://alchemists.io/): A collective devoted to the craft of software engineering where expertise is transmuted into joy.
+
+[Trifecta Tech Foundation](https://trifectatech.org/): Open infrastructure software in the public interest
+
+Trifecta Tech Foundation is a non-profit that develops and maintains digital commons, open-source software and open standards for vital systems.
 
 # Random thoughts about the concept
 

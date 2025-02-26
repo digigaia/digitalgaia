@@ -62,6 +62,7 @@ converting any doc to a Dash docset: [How I’m a Productive Programmer With a M
 documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 [[HN](https://news.ycombinator.com/item?id=26824743)]
 [[HN](https://news.ycombinator.com/item?id=31874436)]
+[[HN](https://news.ycombinator.com/item?id=42325011)]
 
 [http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](<http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>)
 
