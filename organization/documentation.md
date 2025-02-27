@@ -64,7 +64,13 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 [[HN](https://news.ycombinator.com/item?id=31874436)]
 [[HN](https://news.ycombinator.com/item?id=42325011)]
 
+[We fixed our documentation with the Diátaxis framework](https://blog.sequinstream.com/we-fixed-our-documentation-with-the-diataxis-framework/) [[reddit](https://www.reddit.com/r/programming/comments/1h8vfjd/we_fixed_our_documentation_with_the_di%C3%A1taxis/)]
+
 [http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](<http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>)
+
+[The documentation problem in development](https://rowsana.bearblog.dev/the-documentation-problem/) [[reddit](https://www.reddit.com/r/programming/comments/1i2pfe2/writing_software_documentation_is_harder_than/)]
+
+[Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) [[reddit](https://www.reddit.com/r/programming/comments/1hrux0b/rules_for_writing_software_tutorials/)]
 
 [Google Technical Writing Courses](<https://developers.google.com/tech-writing>) [[reddit](<https://www.reddit.com/r/programming/comments/nf1hs1/google_course_technical_writing_for_software/>)]
 

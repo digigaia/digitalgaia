@@ -37,7 +37,13 @@ efficient
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
+[Beej's Guide to Git](https://beej.us/guide/bggit/) [[HN](https://news.ycombinator.com/item?id=42941283)]
+
+### Jujutsu
+
 [jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful, with a [tutorial by Steve Klabnik](https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html)
+
+another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/) [[reddit](https://www.reddit.com/r/rust/comments/1iejlb9/introduction_to_the_jujutsu_vcs/)]
 
 ### Git workflows
 
