@@ -31,9 +31,13 @@ efficient
 
 [Gitbutler](https://gitbutler.com/)
 
+[Fork](https://git-fork.com/): a fast and friendly git client
+
 [Git Tips 2: New Stuff in Git](https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/) [[HN](https://news.ycombinator.com/item?id=39356042)]
 
-[Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) [[Reddit](https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/)]
+[Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/) [[reddit](https://www.reddit.com/r/programming/comments/1atowsj/popular_git_config_options/)]
+
+[How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/) [[reddit](https://www.reddit.com/r/programming/comments/1ixqydh/how_core_git_developers_configure_git/)]
 
 [Sublime Merge](https://www.sublimemerge.com/)
 
