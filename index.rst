@@ -30,10 +30,10 @@
 .. toctree::
    :caption: Organization
 
-   organization/infrastructure
-   organization/voting
-   organization/organization
+   organization/coding
    organization/documentation
+   organization/organization
+   organization/infrastructure
    organization/legal
 
 |

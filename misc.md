@@ -27,23 +27,6 @@ VSM, Stafford Beer, cybernetics in general
 
 [Context-switching is the main productivity killer for developers](https://newsletter.techworld-with-milan.com/p/context-switching-is-the-main-productivity) [[reddit](https://www.reddit.com/r/programming/comments/1ij60ba/contextswitching_is_the_main_productivity_killer/)]
 
-# About design / coding
-
-Absolutely essential reading: [A Philosophy of Software Design](https://web.stanford.edu/~ouster/cgi-bin/aposd.php) by John Ousterhout
-
-[Developer philosophy](https://qntm.org/devphilo) [[HN](https://news.ycombinator.com/item?id=42920285)]
-
-[Discovery Coding](https://jimmyhmiller.github.io/discovery-coding) [[HN](https://news.ycombinator.com/item?id=42860128)]
-
-
-# About testing
-
-[Test Like You Fly - Intro](<https://hint.io/blog/test-like-you-fly-1>) ([Reddit thread](<https://www.reddit.com/r/programming/comments/ok5rvs/test_like_you_fly_originated_in_the_aerospace/>))
-
-
-[Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
-
-[The Fuzzing Book](https://www.fuzzingbook.org/) [[HN](https://news.ycombinator.com/item?id=42756286)]
 
 # Similar orgs
 

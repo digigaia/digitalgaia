@@ -74,28 +74,33 @@ check Linear's [method](https://linear.app/method) for issue tracking
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
 
-## Code review
+## Voting processes
 
-**code review is meant to foster shared ownership of the code instead of one maintainer and various ad-hoc helper devs**
+collective is composed of 5 people, each 1 vote. votes are cryptographically signed.
 
-[The best modern code review tools (2022)](https://medium.com/codeapprove/the-best-modern-code-review-tools-2022-468b51751fa) [[reddit](https://www.reddit.com/r/programming/comments/w54zl7/the_best_modern_code_review_tools_2022/)]
+decision is taken with majority, and everyone needs to vote. Exceptionally, a decision can be taken by only 4 members if they all agree, i.e. all 4 vote for the same resolution.
 
-[Quick fixes to your code review workflow](https://consulting.drmaciver.com/code-review-quick-fixes/) [[HN](https://news.ycombinator.com/item?id=31447080)]
+collective changes can happen and need to be voted upon
 
-From Google: [Faster code reviews = 50% higher software delivery performance](https://devinterrupted.substack.com/p/analysis-the-quickest-path-to-halving) [[reddit](https://www.reddit.com/r/programming/comments/17lkot0/analysis_the_quickest_path_to_halving_software/)]
+eviction of one person cannot happen with simple majority, it needs to have 4 votes.
 
-[Empirically supported code review best practices](https://graphite.dev/blog/code-review-best-practices) [[reddit](https://www.reddit.com/r/programming/comments/18mghkp/empirically_supported_code_review_best_practices/)]
+collective has multisig authority over the main account (which main account?) (3-of-5, 4-of-5?)
 
-[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 
-Investigate [stacking workflow / stacked PRs](https://stacking.dev/)
+## Ideal collective size
 
-Use checklists for code review such as [this one](https://github.com/mgreiler/code-review-checklist)
+```{admonition} Conway's law
+:class: seealso
 
-[Git Branching strategies](https://pradeepl.com/blog/git-branching-strategies/)
-[[reddit](https://www.reddit.com/r/programming/comments/185j2e6/git_branching_strategies_is_this_how_you_are_all/)]
+Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure.
+```
 
-[Stacked Diffs](https://newsletter.pragmaticengineer.com/p/stacked-diffs)
-[Stacking workflow](https://stacking.dev/)
-aa
-Never wait for code review again: [how stacking your pull requests unblocks your entire team](https://graphite.dev/blog/stacked-prs) [[reddit](https://www.reddit.com/r/programming/comments/192twep/never_wait_for_code_review_again_how_stacking/)]
+5 people seems to be a good number to target as it provides balance between too small a team to be more productive than a single developer and a team too big that crumbles under its communication and management overhead.
+
+2 is too few, no diversity: just a 2-person team
+
+3 could be, but risk of going 2 vs 1 in decision making is high and very likely resulting in the death of the structure
+
+4 is too symmetric: it might just end up being 2 vs 2, which is 2x the case with 2 persons, which we have seen doesn't work
+
+5 seems to not introduce too many established structures
