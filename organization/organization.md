@@ -95,6 +95,8 @@ integrate some remarks/comments about the apolitical nature of the project, we a
 
 also check [Kraken culture](https://kraken-culture.notion.site/) document
 
+[Why Your ‘Harmonious’ Team Is Actually Failing](https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-actually-failing/) [[reddit](https://www.reddit.com/r/programming/comments/1jahlkh/why_your_harmonious_team_is_actually_failing/)]
+
 
 ## Voting processes
 
