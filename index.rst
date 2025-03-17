@@ -46,8 +46,3 @@
    ktree/sysadmin
 
 |
-
-.. toctree::
-   :caption: Misc
-
-   misc

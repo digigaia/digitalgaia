@@ -34,13 +34,6 @@ the other, and I believe very strongly in the power of decentralization
 to help us build a better world that is inclusive for everyone and doesn't
 create central failure points that accreted through concentration of money,
 power and greed.
-
-Having recently come accross Nassim Nicholas Taleb's writings, I strongly
-believe that anti-fragile systems are now required to run the world's economy,
-and I do believe that BitShares (and Bitcoin, and all decentralized systems
-in general) are such anti-fragile systems.
-
-
 ```
 
 ```{note}
@@ -50,3 +43,14 @@ We want to be antifragile, that means we need to get stronger after encountering
 ## History
 
 Crystallization of DigitalGaia concept as a collective dates from 2020-12-13
+
+
+## Symbolism
+
+Technology is often being touted as antithetical to nature; inorganic vs organic, order vs chaos, hard vs soft, cold/dead vs alive…
+
+We believe it doesn’t have to be so
+
+Digital gaia: a technology and nature symbiosis project
+
+Relation to solarpunk?

@@ -33,6 +33,21 @@
 
 - [7 Powers: The Foundations of Business Strategy](https://www.goodreads.com/book/show/32816087-7-powers)
 
+### About systems thinking (TODO: remove this section?)
+
+[A Lifetime of Systems Thinking](<https://thesystemsthinker.com/a-lifetime-of-systems-thinking/>)
+[[HN](<https://news.ycombinator.com/item?id=27412750>)]
+
+VSM, Stafford Beer, cybernetics in general
+[[wikipedia](<https://en.wikipedia.org/wiki/Viable_system_model>)]
+
+[The WOPRS Organization Model](<https://jpreston.xyz/woprs-organization-model.html>)
+[[HN](<https://news.ycombinator.com/item?id=28536432>)]
+
+[The skill of org design](<https://commoncog.com/blog/org-design-skill/>)
+[[HN](<https://news.ycombinator.com/item?id=28772033>)]
+
+
 ## Meetings
 
 **biweekly / monthly meetings on readings / interesting articles / potential new projects**
@@ -74,6 +89,13 @@ check Linear's [method](https://linear.app/method) for issue tracking
 code review should be a daily task, and we may need to dedicate up to 20% of a day to it. About code review processes and how to make it better/easier: [code review decision fatigue](<https://tylercipriani.com/blog/2022/03/12/code-review-procrastination-and-clarity/>) ([HN](<https://news.ycombinator.com/item?id=30665319>))
 
 
+## Communication
+
+integrate some remarks/comments about the apolitical nature of the project, we also don't have a code of conduct because this is all about the technology (neutral). And yeah, we should be nice to each other, but that isn't a thing from the project, it's just good human behavior. We should operate according to [Crocker's rules](https://www.lesswrong.com/tag/crockers-rules)
+
+also check [Kraken culture](https://kraken-culture.notion.site/) document
+
+
 ## Voting processes
 
 collective is composed of 5 people, each 1 vote. votes are cryptographically signed.
@@ -104,3 +126,21 @@ Any organization that designs a system will produce a design whose structure is 
 4 is too symmetric: it might just end up being 2 vs 2, which is 2x the case with 2 persons, which we have seen doesn't work
 
 5 seems to not introduce too many established structures
+
+
+## Similar organizations
+
+Here are a few similar organizations / collectives that we might want to draw inspiration from:
+
+check Framasoft, they have some pretty good ideas, tenets and organization: <https://framablog.org/>, <https://framasoft.org/en/>, <https://framasoft.org/en/manifest/>
+
+another organization which we like and seems pretty aligned with what we want to do is [FUTO](https://futo.org/about/what-is-futo/)
+
+[Alchemists](https://alchemists.io/): A collective devoted to the craft of software engineering where expertise is transmuted into joy.
+
+[Trifecta Tech Foundation](https://trifectatech.org/): Open infrastructure software in the public interest
+
+Trifecta Tech Foundation is a non-profit that develops and maintains digital commons, open-source software and open standards for vital systems.
+
+Some "tech coops", maybe good source of inspiration
+<https://tech-coops.xyz/>

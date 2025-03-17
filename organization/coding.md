@@ -42,3 +42,16 @@ Never wait for code review again: [how stacking your pull requests unblocks your
 [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
 
 [The Fuzzing Book](https://www.fuzzingbook.org/) [[HN](https://news.ycombinator.com/item?id=42756286)]
+
+
+## Productivity / bad influence of news reading on focus
+
+[How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
+[[HN](https://news.ycombinator.com/item?id=32304456)]
+
+[I hate the news](http://www.aaronsw.com/weblog/hatethenews) (Aaron Swartz)
+
+[Productivity Porn](https://calebschoepp.com/blog/2022/productivity-porn/)
+[[HN](https://news.ycombinator.com/item?id=32335165)]
+
+[Context-switching is the main productivity killer for developers](https://newsletter.techworld-with-milan.com/p/context-switching-is-the-main-productivity) [[reddit](https://www.reddit.com/r/programming/comments/1ij60ba/contextswitching_is_the_main_productivity_killer/)]

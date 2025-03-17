@@ -42,9 +42,5 @@ check also: [Bevy's "manifesto"](https://bevyengine.org/learn/contribute/introdu
 and: [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/) (by Eric Hughes)
 more [cypherpunk links](https://news.ycombinator.com/item?id=18690492)
 
-check Framasoft, they have some pretty good ideas, tenets and organization: <https://framablog.org/>, <https://framasoft.org/en/>, <https://framasoft.org/en/manifest/>
-
 about commons: [Five Pillar Model of the Commons](https://femprocomuns.coop/five-pillar-model-of-the-commons/?lang=en)
-
-another organization which we like and seems pretty aligned with what we want to do is [FUTO](https://futo.org/about/what-is-futo/)
 ```
