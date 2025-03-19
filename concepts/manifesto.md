@@ -32,6 +32,8 @@ The following are some fundamental tenets guiding how the DigitalGaia collective
 
 - **we need to be resilient / antifragile**
 
+  We do not content ourselves with fixing issues, we try to understand their root cause and ensure they cannot happen again in the future.
+
   Decisions are collective, 1 human 1 vote (unless we find something better)
 
 ```{note}
@@ -40,7 +42,5 @@ check also: [Bevy's "manifesto"](https://bevyengine.org/learn/contribute/introdu
 and: [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/) (by Eric Hughes)
 more [cypherpunk links](https://news.ycombinator.com/item?id=18690492)
 
-check Framasoft, they have some pretty good ideas, tenets and organization: <https://framablog.org/>, <https://framasoft.org/en/>, <https://framasoft.org/en/manifest/>
-
-another organization which we like and seems pretty aligned with what we want to do is [FUTO](https://futo.org/about/what-is-futo/)
+about commons: [Five Pillar Model of the Commons](https://femprocomuns.coop/five-pillar-model-of-the-commons/?lang=en)
 ```

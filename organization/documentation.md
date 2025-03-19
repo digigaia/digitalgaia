@@ -68,6 +68,8 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 
 [http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/](<http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>)
 
+[Series: Writing Great Documentation](https://jacobian.org/series/great-documentation/) by Jacob Kaplan-Moss (Django docs)
+
 [The documentation problem in development](https://rowsana.bearblog.dev/the-documentation-problem/) [[reddit](https://www.reddit.com/r/programming/comments/1i2pfe2/writing_software_documentation_is_harder_than/)]
 
 [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/) [[reddit](https://www.reddit.com/r/programming/comments/1hrux0b/rules_for_writing_software_tutorials/)]
