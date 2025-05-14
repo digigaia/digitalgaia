@@ -78,17 +78,25 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 
 [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) [[HN](https://news.ycombinator.com/item?id=38865416)]
 
+[How to Write API Documentation That Developers Will Love](https://zuplo.com/blog/2025/03/21/how-to-write-api-documentation-developers-will-love) [[reddit](https://www.reddit.com/r/programming/comments/1jki3vg/how_to_write_api_documentation_that_developers/)]
+
 Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
 
 tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](https://lwn.net/Articles/964075/)]
 
 [What I think about when I edit](https://evaparish.com/blog/how-i-edit) [[HN](https://news.ycombinator.com/item?id=39950760)]
 
+[The Elements of Style](https://www.bartleby.com/lit-hub/the-elements-of-style/): guidelines for writing "proper" English
+
 ## How to write good git commits
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
+[How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/)
+
 
 ## Release notes / changelog
+
+[Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 [interesting strategy](https://lwn.net/Articles/994678/) for writing good release notes, git-cliff sounds nice in theory but I feel like it's not ideal

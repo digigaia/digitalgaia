@@ -11,6 +11,9 @@ efficient
 
 [buck2](https://buck2.build/), a large scale, fast, reliable, and extensible build tool
 
+[Open-lmake](https://github.com/cesar-douady/open-lmake), a generic, fearless build system
+[[reddit](https://www.reddit.com/r/cpp/comments/1kdw53s/openlmake_a_novel_reliable_build_system_with/)]
+
 ## Editors
 
 [VSCodium](https://vscodium.com/), open-source binary of VSCode [[HN](https://news.ycombinator.com/item?id=31604932)]
@@ -29,7 +32,9 @@ efficient
 
 [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109) [[reddit](https://www.reddit.com/r/programming/comments/1bafh54/modern_git_commands_and_features_you_should_be/)]
 
-[Gitbutler](https://gitbutler.com/)
+[Gitbutler](https://gitbutler.com/): has stacked branches and some other nice-looking features
+
+See also their [blog](https://blog.gitbutler.com/)
 
 [Fork](https://git-fork.com/): a fast and friendly git client
 
@@ -48,6 +53,12 @@ efficient
 [jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful, with a [tutorial by Steve Klabnik](https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html)
 
 another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/) [[reddit](https://www.reddit.com/r/rust/comments/1iejlb9/introduction_to_the_jujutsu_vcs/)]
+
+[Jujutsu: different approach to versioning](https://thisalex.com/posts/2025-04-20/) [[reddit](https://www.reddit.com/r/programming/comments/1k3mjlz/jujutsu_different_approach_to_versioning/)]
+
+[Tech notes: The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
+
+[What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/) [[reddit](https://www.reddit.com/r/programming/comments/1kd5a9n/what_ive_learned_from_jj/)]
 
 ### Git workflows
 

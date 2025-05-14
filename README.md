@@ -40,7 +40,7 @@ python run_livereload.py
 
 - check other fonts for styling the documentation
   https://fonts.google.com/specimen/Exo+2
-  normal: Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo
+  normal: Inter, Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo
   heading: CooperBT, Averia
 
   maybe use <https://modernfontstacks.com/>
