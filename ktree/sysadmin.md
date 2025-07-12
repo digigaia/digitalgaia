@@ -48,3 +48,5 @@ Applications firewall, similar to LittleSnitch
 [Headscale](https://github.com/juanfont/headscale):
 Open-source implementation of the Tailscale control server
 [[HN](https://news.ycombinator.com/item?id=28572013)] (discussion of similar alternatives in HN thread)
+
+[Firezone](https://www.firezone.dev/): potential alternative to TailScale?

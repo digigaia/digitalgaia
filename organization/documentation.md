@@ -55,7 +55,10 @@ investigate following tools:
 
 converting any doc to a Dash docset: [How I’m a Productive Programmer With a Memory of a Fruit Fly](https://hynek.me/articles/productive-fruit-fly-programmer/) [[HN](https://news.ycombinator.com/item?id=32900164)]
 
-[Markwhen, to input and display stuff with dates](https://markwhen.com/) [[HN]](https://news.ycombinator.com/item?id=42289690)
+[Markwhen, to input and display stuff with dates](https://markwhen.com/) [[HN](https://news.ycombinator.com/item?id=42289690)]
+
+[reddit: Sphinx vs mkdocs vs (your favorite Pythonic Doc Tool)](https://www.reddit.com/r/Python/comments/1juie2r/sphinx_vs_mkdocs_vs_your_favorite_pythonic_doc/)
+
 
 ## How to write good documentation
 
@@ -83,6 +86,8 @@ documentation structure/organization: [Diátaxis](https://diataxis.fr/)
 Not necessarily documentation, but communication in general: [Writing one sentence per line](https://sive.rs/1s) [[HN](https://news.ycombinator.com/item?id=31808093)]
 
 tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](https://lwn.net/Articles/964075/)]
+
+[How to Use Em Dashes (—), En Dashes (–) , and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use) [[HN](https://news.ycombinator.com/item?id=43497719)]
 
 [What I think about when I edit](https://evaparish.com/blog/how-i-edit) [[HN](https://news.ycombinator.com/item?id=39950760)]
 

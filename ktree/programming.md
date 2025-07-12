@@ -60,6 +60,8 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/) [[reddit](https://www.reddit.com/r/programming/comments/1kd5a9n/what_ive_learned_from_jj/)]
 
+[Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) [[reddit](https://www.reddit.com/r/rust/comments/1lr6sap/git_experts_should_try_jujutsu_written_in_rust/)]
+
 ### Git workflows
 
 [git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
