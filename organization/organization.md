@@ -130,7 +130,7 @@ Any organization that designs a system will produce a design whose structure is 
 5 seems to not introduce too many established structures
 
 
-## Similar organizations
+## Similar or interesting organizations
 
 Here are a few similar organizations / collectives that we might want to draw inspiration from:
 
@@ -143,6 +143,10 @@ another organization which we like and seems pretty aligned with what we want to
 [Trifecta Tech Foundation](https://trifectatech.org/): Open infrastructure software in the public interest
 
 Trifecta Tech Foundation is a non-profit that develops and maintains digital commons, open-source software and open standards for vital systems.
+
+[Ink & Switch](https://www.inkandswitch.com/): An independent research lab exploring the future of tools for thought.
+
+[Lambda](https://lambdaclass.com/) and [their blog](https://blog.lambdaclass.com/)
 
 Some "tech coops", maybe good source of inspiration
 <https://tech-coops.xyz/>

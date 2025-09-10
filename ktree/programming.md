@@ -20,6 +20,8 @@ efficient
 
 [Helix](https://helix-editor.com/), a modern terminal editor ([some thoughts on it](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune))
 
+[I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/) [[reddit](https://www.reddit.com/r/rust/comments/1lmo3p2/i_really_like_the_helix_editor/), [reddit2](https://www.reddit.com/r/programming/comments/1lmo1q5/i_really_like_the_helix_editor/)]
+
 [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
 
 [AstroNvim](https://github.com/AstroNvim/AstroNvim) [[HN](https://news.ycombinator.com/item?id=35105657)] - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -62,6 +64,12 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) [[reddit](https://www.reddit.com/r/rust/comments/1lr6sap/git_experts_should_try_jujutsu_written_in_rust/)]
 
+[Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui) [[HN](https://news.ycombinator.com/item?id=44093334)]
+
+[jj for busy devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs) [[reddit](https://www.reddit.com/r/programming/comments/1m6h7pq/jj_for_busy_devs/)]
+
+[Jujutsu for everyone](https://jj-for-everyone.github.io/) [[HN](https://news.ycombinator.com/item?id=45083952)]
+
 ### Git workflows
 
 [git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
@@ -69,6 +77,9 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 → [git undo](<https://blog.waleedkhan.name/git-undo/>): feature from the above ([HN thread](<https://news.ycombinator.com/item?id=27579701>))
 
 apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https://gitup.co/>)
+
+[Git Rebase - Explained Like You’re New to Git](https://medium.com/stackademic/git-rebase-explained-like-youre-new-to-git-263c19fa86ec?sk=2f9110eff1239c5053f2f8ae3c5fe21e) [[reddit](https://www.reddit.com/r/programming/comments/1mn85pw/git_rebase_explained_like_youre_new_to_git/)]
+
 
 
 ## Diff tools
