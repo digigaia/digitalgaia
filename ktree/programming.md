@@ -70,6 +70,10 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Jujutsu for everyone](https://jj-for-everyone.github.io/) [[HN](https://news.ycombinator.com/item?id=45083952)]
 
+[Jujutsu Strategies](https://reasonablypolymorphic.com/blog/jj-strategy/)
+
+[jj init](https://v5.chriskrycho.com/essays/jj-init/): excellent and convincing introductory article about jj
+
 ### Git workflows
 
 [git-branchless](<https://github.com/arxanas/git-branchless>): Branchless workflow for Git
