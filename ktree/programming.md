@@ -64,15 +64,28 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) [[reddit](https://www.reddit.com/r/rust/comments/1lr6sap/git_experts_should_try_jujutsu_written_in_rust/)]
 
-[Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui) [[HN](https://news.ycombinator.com/item?id=44093334)]
-
 [jj for busy devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs) [[reddit](https://www.reddit.com/r/programming/comments/1m6h7pq/jj_for_busy_devs/)]
 
 [Jujutsu for everyone](https://jj-for-everyone.github.io/) [[HN](https://news.ycombinator.com/item?id=45083952)]
 
+[jj init](https://v5.chriskrycho.com/essays/jj-init/): excellent and convincing introductory article about jj
+
+[list of Jujutsu articles](https://v5.chriskrycho.com/topics/jujutsu) from Chris Krycho
+
+#### Jujutsu tools
+
+[Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui) [[HN](https://news.ycombinator.com/item?id=44093334)]
+
+[JJ-FZF - a TUI for Jujutsu](https://testbit.eu/2024/jj-fzf-tui-jujutsu), [integrating jj-fzf into Emacs](https://testbit.eu/2025/jj-fzf-in-emacs)
+
+[Jujutsu mode for Emacs](https://github.com/bolivier/jj-mode.el)
+
+#### Jujutsu tips/tricks, workflows and merging strategies
+
 [Jujutsu Strategies](https://reasonablypolymorphic.com/blog/jj-strategy/)
 
-[jj init](https://v5.chriskrycho.com/essays/jj-init/): excellent and convincing introductory article about jj
+[A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
+
 
 ### Git workflows
 

@@ -41,7 +41,7 @@ python run_livereload.py
 - check other fonts for styling the documentation
   https://fonts.google.com/specimen/Exo+2
 
-  normal: Inter, Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo, Cronos Pro (check https://v4.chriskrycho.com/2019/cronos-follow-up.html though)
+  normal: Inter, Roboto Slab, Noto, Merriweather, Lato, Caslon, Open Sans, Cantarell, Menlo, Titillium Web, Saira Semi Condensed, Cronos Pro (check https://v4.chriskrycho.com/2019/cronos-follow-up.html though)
 
   heading: CooperBT, Averia
 
