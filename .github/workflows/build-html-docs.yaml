@@ -1,21 +1,30 @@
 name: build-html-docs
 on: [push]
 jobs:
-    checkout-and-build:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v3
-            - uses: actions/setup-python@v3
-            - run: pip install -r requirements.txt
-            - run: make html
-            -
-                env:
-                    DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-                run: echo "$DEPLOY_KEY" > github@deploy
-            - run: chmod 600 github@deploy
+  checkout-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
 
-            #- run: cat github@deploy
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
 
-            - run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ wackou@digitalgaia.net:www/digitalgaia/
-              env:
-                  SSH_COMMAND: "ssh -o StrictHostKeyChecking=no -i github@deploy"
+      - name: Install the project
+        run: uv sync --locked
+
+      - name: Build the website
+        run: uv run make html
+
+      -
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        run: echo "$DEPLOY_KEY" > github@deploy
+
+      - run: chmod 600 github@deploy
+
+      #- run: cat github@deploy
+
+      - name: publish the website
+        run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ wackou@digitalgaia.net:www/digitalgaia/
+        env:
+          SSH_COMMAND: "ssh -o StrictHostKeyChecking=no -i github@deploy"

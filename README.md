@@ -12,26 +12,25 @@ pages to be written either in the `rst` format or the `markdown` format.
 
 ## Build documentation
 
-Start by creating a new virtualenv (recommended), then installing the
-requirements:
+Start by creating a virtualenv and installing the requirements:
 
 ```{sh}
-pip install -r requirements.txt
+uv sync
 ```
 
 Build the documentation using
 
 ```{sh}
-make clean  # optional, never hurts though :)
-make html
+uv run make clean  # optional, never hurts though :)
+uv run make html
 ```
 
 Run a development version that auto-reloads when changes are saved
 
 ```{sh}
-make clean  # optional, never hurts though :)
-make html
-python run_livereload.py
+uv run make clean  # optional, never hurts though :)
+uv run make html
+uv run python run_livereload.py
 ```
 
 ## TODO / FIXME
