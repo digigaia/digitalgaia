@@ -36,8 +36,13 @@ Never wait for code review again: [how stacking your pull requests unblocks your
 
 ## Testing
 
-[Test Like You Fly - Intro](<https://hint.io/blog/test-like-you-fly-1>) ([Reddit thread](<https://www.reddit.com/r/programming/comments/ok5rvs/test_like_you_fly_originated_in_the_aerospace/>))
+**Tests as living design/specs document**
 
+Tests should have docs explaining what they test. This is also acts as the specification.
+Tests are documentation and should be exported and accessible as part of the project's main documentation website, they should be indexed and searchable.
+This way we achieve a living documented spec that also serves as a dynamic test suite.
+
+[Test Like You Fly - Intro](<https://hint.io/blog/test-like-you-fly-1>) ([Reddit thread](<https://www.reddit.com/r/programming/comments/ok5rvs/test_like_you_fly_originated_in_the_aerospace/>))
 
 [Don’t Mock What You Don’t Own](https://hynek.me/articles/what-to-mock-in-5-mins/) [[HN](https://news.ycombinator.com/item?id=31822683)]
 
