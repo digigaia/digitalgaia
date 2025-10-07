@@ -16,6 +16,9 @@ directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla
 
 [Opinionated Debian Installer](https://github.com/r0b0/debian-installer) - alternative debian installer for laptops and desktop PCs
 
+[isd (interactive systemd)](https://github.com/kainctl/isd) – a better way to work with systemd units
+
+
 ## HTTP / Nginx
 
 [Nginx Cheatsheet](https://vishnu.hashnode.dev/nginx-cheatsheet)
@@ -39,6 +42,7 @@ Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 Debian: [hardening guide](https://wiki.debian.org/Hardening) and [what
 not to do](https://wiki.debian.org/DontBreakDebian) to break the
 security/stability of a debian system
+
 
 ## Networking
 
