@@ -19,6 +19,13 @@ directives](https://infosec.mozilla.org/guidelines/openssh) from Mozilla
 [isd (interactive systemd)](https://github.com/kainctl/isd) – a better way to work with systemd units
 
 
+## Backups
+
+Make Your Own Backup System – Part 1: Strategy Before Scripts
+https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/
+https://news.ycombinator.com/item?id=44618687
+
+
 ## HTTP / Nginx
 
 [Nginx Cheatsheet](https://vishnu.hashnode.dev/nginx-cheatsheet)
@@ -54,3 +61,5 @@ Open-source implementation of the Tailscale control server
 [[HN](https://news.ycombinator.com/item?id=28572013)] (discussion of similar alternatives in HN thread)
 
 [Firezone](https://www.firezone.dev/): potential alternative to TailScale?
+
+[Netbird](https://netbird.io/): other alternative to TailScale? [[HN](https://news.ycombinator.com/item?id=44813110)]
