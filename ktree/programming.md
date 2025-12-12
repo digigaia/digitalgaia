@@ -18,7 +18,7 @@ efficient
 
 [VSCodium](https://vscodium.com/), open-source binary of VSCode [[HN](https://news.ycombinator.com/item?id=31604932)]
 
-[Helix](https://helix-editor.com/), a modern terminal editor ([some thoughts on it](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune))
+[Helix](https://helix-editor.com/), a modern terminal editor ([some thoughts on it](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)) - [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/) [[reddit](https://www.reddit.com/r/programming/comments/1lmo1q5/i_really_like_the_helix_editor/)]
 
 [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/) [[reddit](https://www.reddit.com/r/rust/comments/1lmo3p2/i_really_like_the_helix_editor/), [reddit2](https://www.reddit.com/r/programming/comments/1lmo1q5/i_really_like_the_helix_editor/)]
 
@@ -64,7 +64,8 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/) [[reddit](https://www.reddit.com/r/rust/comments/1lr6sap/git_experts_should_try_jujutsu_written_in_rust/)]
 
-[jj for busy devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs) [[reddit](https://www.reddit.com/r/programming/comments/1m6h7pq/jj_for_busy_devs/)]
+
+[Jujutsu For Busy Devs (an alternative git frontend, written in Rust)](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs) [[reddit](https://www.reddit.com/r/rust/comments/1m6e3u8/jujutsu_for_busy_devs_an_alternative_git_frontend/), [reddit2](https://www.reddit.com/r/programming/comments/1m6h7pq/jj_for_busy_devs/)]
 
 [Jujutsu for everyone](https://jj-for-everyone.github.io/) [[HN](https://news.ycombinator.com/item?id=45083952)]
 
@@ -85,7 +86,6 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 [Jujutsu Strategies](https://reasonablypolymorphic.com/blog/jj-strategy/)
 
 [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
-
 
 ### Git workflows
 
