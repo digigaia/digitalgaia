@@ -22,6 +22,10 @@ efficient
 
 [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/) [[reddit](https://www.reddit.com/r/rust/comments/1lmo3p2/i_really_like_the_helix_editor/), [reddit2](https://www.reddit.com/r/programming/comments/1lmo1q5/i_really_like_the_helix_editor/)]
 
+[From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/) [[HN](https://news.ycombinator.com/item?id=45746478)]
+
+[Helix tutorial](https://helix-editor.vercel.app/start-here/basics)
+
 [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
 
 [AstroNvim](https://github.com/AstroNvim/AstroNvim) [[HN](https://news.ycombinator.com/item?id=35105657)] - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins

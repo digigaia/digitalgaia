@@ -19,6 +19,7 @@ List of [terminal tools](https://terminaltrove.com/)
 [Tailspin](https://github.com/bensadeh/tailspin): a log file highlighter [[HN](https://news.ycombinator.com/item?id=38109646)]
 
 [Broot](https://dystroy.org/broot/) – A new way to see and navigate directory trees [[HN](https://news.ycombinator.com/item?id=21998638)]
+See also this article: [A better tree command](https://dystroy.org/blog/a-better-tree/)
 
 [Eza](https://github.com/eza-community/eza): A modern, maintained replacement for ls [[HN](https://news.ycombinator.com/item?id=41031112)]
 
@@ -51,6 +52,8 @@ List of [terminal tools](https://terminaltrove.com/)
 [Invoke](https://www.pyinvoke.org/)
 
 [DoIt](https://pydoit.org/)
+
+[Poe the Poet](https://poethepoet.natn.io/index.html)
 
 
 ## File sharing
