@@ -12,8 +12,8 @@
 .. |dgtree| image:: _static/gaia_tree.svg
                     :width: 400
 
-.. |intro_blurb| replace:: "A place where nature and technology
-                           weave into one another..."
+.. |intro_blurb| replace:: "A place where technology
+                           grows organically..."
 
 
 .. toctree::

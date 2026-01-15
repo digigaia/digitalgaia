@@ -6,7 +6,8 @@
 Most of the HN or Reddit comments in the following sections usually also have recommendations for other tools, they are worth checking out.
 ```
 
-[A collection of modern/faster/saner alternatives to common unix commands](https://github.com/johnalanwoods/maintained-modern-unix)
+[A collection of modern/faster/saner alternatives to common unix commands](https://github.com/johnalanwoods/maintained-modern-unix) [[reddit](https://www.reddit.com/r/programming/comments/o159t7/modern_alternatives_to_unix_commands/
+)]
 
 [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
@@ -25,6 +26,8 @@ See also this article: [A better tree command](https://dystroy.org/blog/a-better
 
 [lnav](https://lnav.org/):  An advanced log file viewer for the small-scale
 
+[jless](https://jless.io/) - a command-line JSON viewer [[HN](https://news.ycombinator.com/item?id=30452162)]
+
 [hyperfine](https://github.com/sharkdp/hyperfine/) - A command-line benchmarking tool.
 
 [How FZF and ripgrep improved my workflow](https://medium.com/@sidneyliebrand/how-fzf-and-ripgrep-improved-my-workflow-61c7ca212861) [[HN](https://news.ycombinator.com/item?id=20360204)]
@@ -35,9 +38,28 @@ See also this article: [A better tree command](https://dystroy.org/blog/a-better
 
 [Advanced Terminal Tips and Tricks](https://www.bitsand.cloud/posts/terminal-tips/) [[reddit](https://www.reddit.com/r/programming/comments/1e7qaat/advanced_terminal_tips_and_tricks/)]
 
-### du-like tools (disk usage)
+[fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
+
+[jc](https://github.com/kellyjonbrazil/jc): Serializes the output of command-line tools to structured JSON output
+
+[Sysz](https://github.com/joehillen/sysz) – An fzf terminal UI for systemctl [[HN](https://news.ycombinator.com/item?id=28576836)]
+
+[flameshot](https://flameshot.org/) - screenshot tool:
+
+[dog](https://dog.ramfield.net/) - A fast, friendly DNS client [[github](https://github.com/Dj-Codeman/dog_community)]
+
+### Resource monitoring tools
+
+[nethogs](https://github.com/raboof/nethogs) - top for network (grouped by process):
+
+[btop++](https://github.com/aristocratos/btop): A monitor of resources [[reddit](https://www.reddit.com/r/cpp/comments/pqmqbz/btop_a_monitor_of_resources/), [HN](https://news.ycombinator.com/item?id=28634898)]
+
+
+### `du`-like tools (disk usage)
 
 [ncdu](https://dev.yorhel.nl/ncdu)
+
+[gdu](https://github.com/dundee/gdu): Fast disk usage analyzer
 
 [duf: Disk Usage/Free Utility - a better 'df' alternative](https://github.com/muesli/duf)
 [reddit](https://www.reddit.com/r/programming/comments/j1er6d/duf_is_like_htop_for_disk_usage/)
