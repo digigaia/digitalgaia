@@ -54,6 +54,8 @@ See also this article: [A better tree command](https://dystroy.org/blog/a-better
 
 [btop++](https://github.com/aristocratos/btop): A monitor of resources [[reddit](https://www.reddit.com/r/cpp/comments/pqmqbz/btop_a_monitor_of_resources/), [HN](https://news.ycombinator.com/item?id=28634898)]
 
+[glances](https://nicolargo.github.io/glances/): a cross-platform system monitoring tool written in Python [[github](https://github.com/nicolargo/glances)]
+
 
 ### `du`-like tools (disk usage)
 
