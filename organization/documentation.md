@@ -102,6 +102,11 @@ tool for enforcing style guidelines for text: [Vale](https://vale.sh/) [[LWN](ht
 [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/)
 
 
+## Logging
+
+[Logging Sucks - And here's how to make it better](https://loggingsucks.com/) [[reddit](https://www.reddit.com/r/programming/comments/1pvfxpn/logging_sucks_and_heres_how_to_make_it_better/)]
+
+
 ## Release notes / changelog
 
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
