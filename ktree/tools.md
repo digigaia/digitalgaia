@@ -40,6 +40,8 @@ See also this article: [A better tree command](https://dystroy.org/blog/a-better
 
 [fq](https://github.com/wader/fq): jq for binary formats - tool, language and decoders for working with binary and text formats
 
+[jaq](https://github.com/01mf02/jaq): A jq clone focussed on correctness, speed, and simplicity (also does yaml, toml, etc.) [[reddit](https://www.reddit.com/r/rust/comments/1s7lktl/jaq_30_jq_clone_with_multiformat_support_json/)]
+
 [jc](https://github.com/kellyjonbrazil/jc): Serializes the output of command-line tools to structured JSON output
 
 [Sysz](https://github.com/joehillen/sysz) – An fzf terminal UI for systemctl [[HN](https://news.ycombinator.com/item?id=28576836)]

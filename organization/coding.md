@@ -51,6 +51,8 @@ This way we achieve a living documented spec that also serves as a dynamic test 
 
 ## Productivity / bad influence of news reading on focus
 
+[Fix your tools](https://ochagavia.nl/blog/fix-your-tools/) [[HN](https://news.ycombinator.com/item?id=47112174)]
+
 [How I regained concentration and focus](https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/)
 [[HN](https://news.ycombinator.com/item?id=32304456)]
 

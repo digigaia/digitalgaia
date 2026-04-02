@@ -62,4 +62,4 @@ Open-source implementation of the Tailscale control server
 
 [Firezone](https://www.firezone.dev/): potential alternative to TailScale?
 
-[Netbird](https://netbird.io/): other alternative to TailScale? [[HN](https://news.ycombinator.com/item?id=44813110)]
+[Netbird](https://netbird.io/): other alternative to TailScale? [[HN](https://news.ycombinator.com/item?id=44813110), [HN2](https://news.ycombinator.com/item?id=46844870)]
