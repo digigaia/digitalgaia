@@ -44,6 +44,7 @@ the first phase in the DG process (1st year) is here to build our knowledge and 
 
 investigate following tools:
 
+- [https://zensical.org/](<https://zensical.org/>): A modern static site generator by the Material for MkDocs team
 - [https://www.gitbook.com/](<https://www.gitbook.com/>) (e.g., see: [https://kb.fioprotocol.io/foundation/foundation-board](<https://kb.fioprotocol.io/foundation/foundation-board>))
 - [https://js.wiki/](<https://js.wiki/>) (possibly check TiddlyWiki too)
 - [https://www.docsy.dev](<https://www.docsy.dev>)

@@ -6,6 +6,8 @@
 Most of the HN or Reddit comments in the following sections usually also have recommendations for other tools, they are worth checking out.
 ```
 
+[Awesome Modern CLI](https://github.com/thegdsks/awesome-modern-cli) [[reddit](https://www.reddit.com/r/rust/comments/1slvgq5/most_modern_cli_replacements_are_written_in_rust/)]
+
 [A collection of modern/faster/saner alternatives to common unix commands](https://github.com/johnalanwoods/maintained-modern-unix) [[reddit](https://www.reddit.com/r/programming/comments/o159t7/modern_alternatives_to_unix_commands/
 )]
 

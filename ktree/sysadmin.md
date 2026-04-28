@@ -1,7 +1,7 @@
 # Sysadmin
 
 [Cockpit Project](https://cockpit-project.org/)
-\[[HN](https://news.ycombinator.com/item?id=31439811)\]
+[[HN](https://news.ycombinator.com/item?id=31439811), [HN2](https://news.ycombinator.com/item?id=47445599)]
 
 [Interactive, file-level Time Machine-like tool for
 ZFS](https://github.com/kimono-koans/httm)
@@ -63,3 +63,5 @@ Open-source implementation of the Tailscale control server
 [Firezone](https://www.firezone.dev/): potential alternative to TailScale?
 
 [Netbird](https://netbird.io/): other alternative to TailScale? [[HN](https://news.ycombinator.com/item?id=44813110)]
+
+[awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.

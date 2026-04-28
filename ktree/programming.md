@@ -77,6 +77,8 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [list of Jujutsu articles](https://v5.chriskrycho.com/topics/jujutsu) from Chris Krycho
 
+[Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/) [[HN](https://news.ycombinator.com/item?id=47349889)]
+
 #### Jujutsu tools
 
 [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui) [[HN](https://news.ycombinator.com/item?id=44093334)]
@@ -85,11 +87,15 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Jujutsu mode for Emacs](https://github.com/bolivier/jj-mode.el)
 
+[Majutsu! Magit for jujutsu](https://github.com/0WD0/majutsu)
+
 #### Jujutsu tips/tricks, workflows and merging strategies
 
 [Jujutsu Strategies](https://reasonablypolymorphic.com/blog/jj-strategy/)
 
 [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
+
+[Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) [[HN](https://news.ycombinator.com/item?id=47841129)]
 
 ### Git workflows
 
@@ -104,6 +110,8 @@ apparently good tool to split/merge/rebase commits: [https://gitup.co/](<https:/
 
 
 ## Diff tools
+
+A [comparison of some diff tools and their algorithms](https://kevinlynagh.com/newsletter/2026_04_overthinking/) [[HN](https://news.ycombinator.com/item?id=47890799)]
 
 [Mergiraf](https://mergiraf.org/): a syntax-aware merge driver for Git [[HN](https://news.ycombinator.com/item?id=42093756)]
 
