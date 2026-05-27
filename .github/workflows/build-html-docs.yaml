@@ -25,6 +25,6 @@ jobs:
       #- run: cat github@deploy
 
       - name: publish the website
-        run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ www-user@digitalgaia.net:www/digitalgaia/
+        run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ www-user@digigaia.org:www/digitalgaia/
         env:
           SSH_COMMAND: "ssh -o StrictHostKeyChecking=no -i github@deploy"
