@@ -79,6 +79,8 @@ another tutorial: [Jujutsu VCS Introduction and Patterns](https://kubamartin.com
 
 [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/) [[HN](https://news.ycombinator.com/item?id=47349889)]
 
+[Defeating git rigour fatigue with jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) [[HN](https://news.ycombinator.com/item?id=48259861)]
+
 #### Jujutsu tools
 
 [Jjui – A Nice TUI for Jujutsu](https://github.com/idursun/jjui) [[HN](https://news.ycombinator.com/item?id=44093334)]
