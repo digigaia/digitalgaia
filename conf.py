@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'DigitalGaia'
-copyright = '2022-2026, Nicolas Wack <nico@digitalgaia.net>'
-author = 'Nicolas Wack <nico@digitalgaia.net>'
+copyright = '2022-2026 DigiGaia SCCL'
+author = 'Nicolas Wack <nico@digigaia.org>'
 
 
 # -- General configuration ---------------------------------------------------
