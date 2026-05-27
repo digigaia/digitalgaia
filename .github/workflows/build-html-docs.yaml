@@ -4,10 +4,10 @@ jobs:
   checkout-and-build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v6
+        uses: astral-sh/setup-uv@v8.1.0
 
       - name: Install the project
         run: uv sync --locked
@@ -25,6 +25,6 @@ jobs:
       #- run: cat github@deploy
 
       - name: publish the website
-        run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ www-user@digitalgaia.net:www/digitalgaia/
+        run: rsync -a --delete-excluded -e "$SSH_COMMAND" _build/html/ www-user@digigaia.org:www/digitalgaia/
         env:
           SSH_COMMAND: "ssh -o StrictHostKeyChecking=no -i github@deploy"
