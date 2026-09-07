@@ -56,6 +56,9 @@ security/stability of a debian system
 [OpenSnitch](https://github.com/evilsocket/opensnitch):
 Applications firewall, similar to LittleSnitch
 
+[Little Snitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+[[HN](https://news.ycombinator.com/item?id=47697870)]
+
 [Headscale](https://github.com/juanfont/headscale):
 Open-source implementation of the Tailscale control server
 [[HN](https://news.ycombinator.com/item?id=28572013)] (discussion of similar alternatives in HN thread)

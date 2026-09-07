@@ -26,6 +26,8 @@ efficient
 
 [Helix tutorial](https://helix-editor.vercel.app/start-here/basics)
 
+[How I'm using Helix editor](https://rushter.com/blog/helix-editor/) [[HN](https://news.ycombinator.com/item?id=45559076)]
+
 [Lapce](https://lapce.dev/) - Lightning-fast and Powerful Code Editor
 
 [AstroNvim](https://github.com/AstroNvim/AstroNvim) [[HN](https://news.ycombinator.com/item?id=35105657)] - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins

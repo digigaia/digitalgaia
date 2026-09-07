@@ -46,6 +46,8 @@ See also this article: [A better tree command](https://dystroy.org/blog/a-better
 
 [jc](https://github.com/kellyjonbrazil/jc): Serializes the output of command-line tools to structured JSON output
 
+[cyme](https://github.com/tuna-f1sh/cyme): List system USB buses and devices. A modern cross-platform lsusb.
+
 [Sysz](https://github.com/joehillen/sysz) – An fzf terminal UI for systemctl [[HN](https://news.ycombinator.com/item?id=28576836)]
 
 [flameshot](https://flameshot.org/) - screenshot tool:
